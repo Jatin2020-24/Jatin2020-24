@@ -40,6 +40,6 @@
   <p align="left"></p>
 
 
-  <a href = "https://www.linkedin.com/in/jatin-jain-8b197b1bb//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href = "https://twitter.com/JatinJa76696494"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+  <a href = "https://www.linkedin.com/in/jatin-jain-8b197b1bb//" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href = "https://twitter.com/JatinJa76696494" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
   <a href = "mailto: jatinalwar2001@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
