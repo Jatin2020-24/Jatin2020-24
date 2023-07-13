@@ -3,7 +3,7 @@
 
 ## About Me
 
-- I am currently studying in final year of my college in BTech Information Technology branch with an overall CGPA of 8.68.
+- I am currently studying in final year at UIET Chandigarh in BTech Information Technology branch with an overall CGPA of 8.68.
 - I have also interned at Celebal Tech as Data Science Intern.
 - I was selected as Developer at Google Summer of Code'23 at Python Software Foundation.
 - I have contributed to different open source organizations, fixing their documentation issues.
