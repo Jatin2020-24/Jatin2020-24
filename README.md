@@ -4,8 +4,8 @@
 ## About Me
 
 - I am currently studying in final year of my college in BTech Information Technology branch with an overall CGPA of 8.68.
-- I was selected as Developer at Google Summer of Code'23 at Python Software Foundation.
 - I have also interned at Celebal Tech as Data Science Intern.
+- I was selected as Developer at Google Summer of Code'23 at Python Software Foundation.
 - I have contributed to different open source organizations, fixing their documentation issues.
 - I am among the Top 5% students in NPTEL Blockchain Examination organized by IIT Kharagpur.
 - I am member of IEEE and IAENG organizations.
